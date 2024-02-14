@@ -1,0 +1,104 @@
+.calcy {
+    width: 400px;
+    height: 600px;
+    border: solid 1px;
+    background: rgb(0, 0, 0);
+    background: linear-gradient(205deg, rgba(0, 0, 0, 1) 0%, rgba(23, 40, 92, 1) 71%);
+    
+    margin: 130px auto;
+    
+    border: none;
+    border-radius: 25px;
+    box-shadow: -4px 3px 20px 0px black;
+    
+}
+
+.output1 {
+    height: 20%;
+}
+output1 {
+    height: 10%;
+}
+
+.buttons{
+    margin-top: 15px;
+    height: 70%;
+}
+#secondscreen{
+    width: 85%;
+    margin-left: 20px;
+    background: none;
+    color: rgb(88, 88, 88);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: none;
+    pointer-events: none;
+    text-align: end;
+
+}
+.background-pic {
+    width: 100%;
+    height: 100%;
+
+}
+
+#screen {
+    width: 85%;
+    height: 110px;
+    margin-left: 27px;
+    margin-top: 30px;
+    pointer-events: none;
+    /* border-radius: 7px; */
+    border: none;
+    background: none;
+    color: white;
+    font-size: 38px;
+    text-align: end;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+
+}
+
+
+
+.btn {
+    width: 60px;
+    height: 45px;
+    margin-top: 30px;
+    margin-left: 29px;
+    cursor: pointer;
+    background: rgb(0, 0, 0);
+    background: linear-gradient(205deg, rgba(0, 0, 0, 1) 0%, rgba(23, 40, 92, 1) 71%);
+    border-radius: 30%;
+    color: rgb(196, 196, 196);
+    font-size: larger;
+    box-shadow: -2px 2px 7px 0px black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: 1px black;
+
+}
+
+.btn:hover {
+    background: #070c2c8a;
+}
+
+body {
+    margin: 0px;
+    background-image: url(https://media.istockphoto.com/vectors/illustration-about-mathematics-vector-id1141668764?k=20&m=1141668764&s=612x612&w=0&h=SalwAAdyAak0iCGQ3BH8esYl_YpvnzsT2ry9HrWCzGA=);
+    
+     
+
+
+}
+
+#equalbtn{
+    border-radius: 20%;
+    width: 150px;
+    height: 45px;
+}
+
+#opbtn:hover{
+    color: yellow;
+}
+#equalbtn:hover{
+    color: yellow;
+}
